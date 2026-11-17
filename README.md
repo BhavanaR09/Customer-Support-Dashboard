@@ -52,24 +52,24 @@ An interactive dashboard was developed with five report pages:
 4. ⏱️ **Response and Resolution** – Response and resolution time analysis.
 5. 🚨 **Escalation and Agent Performance** – Escalation trends and agent performance.
 
-**📊 Power BI File:** [Customer_Support_Dashboard.pbix](Customer_Support_Dashboard.pbix)
+**📊 Power BI File:** [Customer_Support_Dashboard.pbix](Phase-2-PowerBI-Dashboard/Customer_Support_Dashboard.pbix)
 
 ## 🖼️ Dashboard Screenshots
 
 ### 1. 🏠 Overview
-![Overview Dashboard](screenshots/overview.png)
+![Overview Dashboard](Phase-2-PowerBI-Dashboard/screenshots/overview.png)
 
 ### 2. 🎫 Ticket Analysis
-![Ticket Analysis Dashboard](screenshots/ticket-analysis.png)
+![Ticket Analysis Dashboard](Phase-2-PowerBI-Dashboard/screenshots/ticket-analysis.png)
 
 ### 3. ⭐ Customer Satisfaction
-![Customer Satisfaction Dashboard](screenshots/customer-satisfaction.png)
+![Customer Satisfaction Dashboard](Phase-2-PowerBI-Dashboard/screenshots/customer-satisfaction.png)
 
 ### 4. ⏱️ Response and Resolution
-![Response and Resolution Dashboard](screenshots/response-resolution.png)
+![Response and Resolution Dashboard](Phase-2-PowerBI-Dashboard/screenshots/response-resolution.png)
 
 ### 5. 🚨 Escalation and Agent Performance
-![Escalation and Agent Performance Dashboard](screenshots/escalation-agent.png)
+![Escalation and Agent Performance Dashboard](Phase-2-PowerBI-Dashboard/screenshots/escalation-agent.png)
 
 ## 📁 Dataset Information
 
@@ -80,25 +80,22 @@ An interactive dashboard was developed with five report pages:
 
 ## 🗂️ Repository Structure
 
-```text
 Customer-Support-Dashboard/
 │
 ├── Phase-1-Python-Analysis/
 │   └── project_phase1.py
 │
 ├── Phase-2-PowerBI-Dashboard/
+│   ├── Customer_Support_Dashboard.pbix
+│   └── screenshots/
+│       ├── overview.png
+│       ├── ticket-analysis.png
+│       ├── customer-satisfaction.png
+│       ├── response-resolution.png
+│       └── escalation-agent.png
 │
-├── screenshots/
-│   ├── overview.png
-│   ├── ticket-analysis.png
-│   ├── customer-satisfaction.png
-│   ├── response-resolution.png
-│   └── escalation-agent.png
-│
-├── Customer_Support_Dashboard.pbix
 ├── README.md
 └── .gitignore
-```
 
 ## 🏆 Project Outcomes
 
