@@ -1,74 +1,75 @@
-\# 🎧 Customer Support Analytics Dashboard 📊
+# 🎧 Customer Support Analytics Dashboard 📊
 
+An interactive Power BI dashboard designed to analyze customer support operations, ticket trends, response and resolution efficiency, customer satisfaction, and agent performance.
 
+## 🎯 Project Objectives
 
-\## 🌟 Project Overview
+- Analyze customer support ticket trends.
+- Monitor response and resolution times.
+- Understand customer satisfaction levels.
+- Track ticket priorities and escalations.
+- Evaluate agent experience and performance.
+- Identify trends across support channels and regions.
 
-An interactive \*\*Customer Support Analytics Dashboard\*\* developed using Microsoft Power BI to analyze customer support performance, resolution efficiency, customer satisfaction, and escalation trends.
+## 🛠️ Tools & Technologies
 
+- **Power BI** – Dashboard development and visualization
+- **Python** – Data processing
+- **Pandas** – Data cleaning and analysis
+- **Google Colab** – Data preparation and exploration
 
+## 📊 Dashboard Preview
 
-\## 🎯 Project Objectives
+### 1. Overview
+![Overview](screenshots/overview.png)
 
-\- 🔍 Analyze customer support issues and priorities.
+### 2. Ticket Analysis
+![Ticket Analysis](screenshots/ticket-analysis.png)
 
-\- ⏱️ Monitor response and resolution times.
+### 3. Customer Satisfaction
+![Customer Satisfaction](screenshots/customer-satisfaction.png)
 
-\- 👨‍💻 Evaluate agent performance and experience.
+### 4. Response and Resolution
+![Response and Resolution](screenshots/response-resolution.png)
 
-\- ⭐ Track customer satisfaction scores.
+### 5. Escalation and Agent Performance
+![Escalation and Agent Performance](screenshots/escalation-agent.png)
 
-\- 📈 Identify escalation patterns and regional trends.
+## ✨ Key Features
 
+- Interactive dashboard with KPI cards.
+- Dynamic charts and visualizations.
+- Filters for month, region, priority, status, and channel.
+- Ticket status and priority analysis.
+- Customer satisfaction analysis.
+- Response and resolution performance monitoring.
+- Escalation and agent performance analysis.
+- Page navigation for easy exploration.
 
+## 📁 Project Structure
 
-\## 🛠️ Tools and Technologies
+```text
+Customer-Support-Dashboard/
+│
+├── screenshots/
+│   ├── overview.png
+│   ├── ticket-analysis.png
+│   ├── customer-satisfaction.png
+│   ├── response-resolution.png
+│   └── escalation-agent.png
+│
+├── Customer_Support_Dashboard.pbix
+├── README.md
+└── .gitignore
+```
 
-\- 📊 Microsoft Power BI
+## 📂 Project File
 
-\- 🐍 Python
+**Power BI Report:** `Customer_Support_Dashboard.pbix`
 
-\- 🐼 Pandas
+Open the PBIX file using Microsoft Power BI Desktop to explore the interactive dashboard.
 
-\- ☁️ Google Colab
+## 👩‍💻 Author
 
-
-
-\## ✨ Dashboard Features
-
-\- 📌 Key Performance Indicator (KPI) cards
-
-\- 📊 Interactive charts and visualizations
-
-\- 📅 Date and category filters
-
-\- 🔎 Issue type and priority analysis
-
-\- 💬 Channel and status analysis
-
-\- 👥 Agent performance analysis
-
-\- ⭐ Customer satisfaction and escalation insights
-
-
-
-\## 📂 Dataset
-
-The project uses a customer support dataset containing \*\*20,000 records\*\*.
-
-
-
-\## 📁 Project File
-
-`Customer\_Support\_Dashboard.pbix`
-
-
-
-\## 👩‍💻 Author
-
-\*\*Bhavana R\*\*
-
-
-
-
+**Bhavana R**
 
