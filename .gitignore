@@ -1,0 +1,39 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Sensitive environment files
+.env
+.env.*
+!.env.example
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Editor files
+.vscode/
+.idea/
+
+# Windows files
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.log
+*.tmp
+
+# Python testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
